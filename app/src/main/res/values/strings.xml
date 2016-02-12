@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Carpool</string>
     <string name="action_settings">Settings</string>
+    <string name="meegereden">Meegereden</string>
+    <string name="zelfGereden">Zelf gereden</string>
+    <string name="nietGewerkt">Niet gewerkt</string>
+    <string name="jaapMetMijMeegereden">Jaap met mij meegereden</string>
 </resources>
